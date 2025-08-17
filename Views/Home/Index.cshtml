@@ -1,0 +1,117 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+<div class="main">
+        <div id="navbar">
+        <div id="comname">Company.com</div>
+        <div id="leftside">        
+        <div id="username">User</div>
+        <div id="userimagetext">SA</div></div>
+    </div>
+    <div id="container">
+      <div id="form">
+        <p id="formessage">Add / Edit the single record here</p>
+        <form id="formdetails">
+            <div class="formgroup">
+                <label for="fname">First name</label>
+                <input type="text" name="fname" id="fname">
+            </div>
+            <div class="formgroup">
+                <label for="lname">Last name</label>
+                <input type="text" name="lname" id="lname">
+            </div>
+            <div class="formgroup">
+              <label>Phone (Primary)</label>
+              <input type="tel" name="phone" required>
+              <div class="error-message" id="error-phone"></div>
+            </div>
+            <div class="formgroup">
+                <label for="email">Email</label>
+                <input type="email" name="email" id="email">
+                <div class="error-message" id="error-email"></div>
+            </div>
+            <div class="formgroup">
+                <label for="address">Address</label>
+                <input type="text" name="address" id="address">
+            </div>            
+            <div class="formgroup">
+                <label for="state">State</label>
+                <select name="state" id="state">
+                  <option value="">Select State</option>
+                  <option value="Gujarat">Gujarat</option>
+                  <option value="Maharashtra">Maharashtra</option>
+                  <option value="Rajasthan">Rajasthan</option>
+                </select>
+            </div>
+            <div class="formgroup">
+                <label for="district">District</label>
+                <select name="district" id="district">
+                </select>
+            </div>            
+            <div class="formgroup">                
+                <label for="city">City</label>
+                <input type="text" name="city" id="city">
+            </div>
+            <div class="formgroup">                
+                <label for="zip">Zip Code</label>
+                <input type="number" name="zip" id="zip">
+                <div class="error-message" id="error-zip"></div>
+            </div>
+            <div class="formactions">
+                <button type="reset" id="resetbutton">Cancel</button>
+                <button type="submit" id="submitbutton">Submit</button>
+            </div>
+        </form>
+      </div>
+      <div id="gridcontainer">
+          <p id="gridmessage">Show the List of records</p>
+            <input type="text" id="searchInput" placeholder="Search records...">
+
+            <div id="datatable-wrapper">
+              <table id="datatable">
+                <thead>
+                  <tr>
+                    <th>Action</th>
+                    <th data-column="fname">First Name</th>
+                    <th data-column="lname">Last Name</th>
+                    <th data-column="phone">Phone</th>
+                    <th data-column="email">Email</th>
+                    <th data-column="address">Address</th>
+                    <th data-column="state">State</th>
+                    <th data-column="district">District</th>
+                    <th data-column="city">City</th>
+                    <th data-column="zip">Zip</th>
+                  </tr>
+                </thead>
+                <tbody></tbody>
+              </table>
+            </div>
+          <div id="pagination">
+            show
+            <select name="rowsPerPage" id="rowsPerPage">
+              <option value="8">8</option>
+              <option value="10">10</option>
+              <option value="15">15</option>
+            </select>
+            <div id="pageInfo"></div>
+            <div>
+              <button id="prevBtn">Prev</button>
+              <button id="nextBtn">Next</button>
+            </div>
+          </div>
+      </div>
+</div>
+    <script src="/js/script.js"></script>
+
+  </body>
+</html>

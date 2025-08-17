@@ -1,0 +1,102 @@
+D:\test webstrail\form with grid\bin\Debug\net9.0\appsettings.Development.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\appsettings.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.staticwebassets.runtime.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.staticwebassets.endpoints.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.exe
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.deps.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.runtimeconfig.json
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.dll
+D:\test webstrail\form with grid\bin\Debug\net9.0\form with grid.pdb
+D:\test webstrail\form with grid\bin\Debug\net9.0\Npgsql.dll
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.csproj.AssemblyReference.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.AssemblyInfoInputs.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.AssemblyInfo.cs
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.csproj.CoreCompileInputs.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.MvcApplicationPartsAssemblyInfo.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.RazorAssemblyInfo.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.RazorAssemblyInfo.cs
+D:\test webstrail\form with grid\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\test webstrail\form with grid\obj\Debug\net9.0\scopedcss\bundle\form with grid.styles.css
+D:\test webstrail\form with grid\obj\Debug\net9.0\scopedcss\projectbundle\form with grid.bundle.scp.css
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\3neiqs6675-b9sayid5wm.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\j0awjjz2kq-61n19gt1b8.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\rzgbxy0cws-xtxxf3hu2r.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\kxqg2aytea-bqjiyaj88i.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\jj2qij0p3k-c2jlpeoesf.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\d0kh3tphhh-erw9l3u2r3.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\gqz7v0hu22-aexeepp0ev.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\t3n1395jld-d7shbmvgxk.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\fm9ifuuyg7-ausgxo2sd3.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\84svr4j2r4-k8d9w2qqmf.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\oqcdioe2dg-cosvhxvwiu.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\jp16tdhpub-ub07r2b239.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\k0jrqija9p-fvhpjtyr6v.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\jp2a3yqfod-b7pk76d08c.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\mst4p2p4rc-fsbi9cje9m.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\7zfnxrig8i-rzd6atqjts.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\83ciw7zfsq-ee0r1s7dh0.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\sgaw5zl9gd-dxx9fxp4il.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\q76hhm0qya-jd9uben2k1.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\gbkq4uwd07-khv3u5hwcm.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\zcgu49c8s7-r4e9w2rdcm.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\g3cbojxxac-lcd1t2u6c8.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\jvdpvp97td-c2oey78nd0.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\v0ifymbooh-tdbxkamptv.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\n1ay3u3zae-j5mq2jizvt.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\dy2upxec82-06098lyss8.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\416u4modq8-nvvlpmu67g.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\95dt5uoarg-s35ty4nyc5.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\dastyvlo5p-pj5nd1wqec.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\fxwd8o2i20-46ein0sx1k.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\nkgicaw66s-v0zj4ognzu.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\r7buhsttvj-37tfw0ft22.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\vv3vbphdod-hrwsygsryq.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\x4krxbtjhj-pk9g2wxc8p.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\z2iioy3ond-ft3s53vfgj.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\gw98a8wtgq-6cfz1n2cew.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\ymn3ijm0gk-6pdc2jztkx.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\9zrbe16ua4-493y06b0oq.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\de2p93fhl7-iovd86k7lj.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\eqo8um00ic-vr1egmr9el.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\8o74ycfk3v-kbrnm935zg.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\z0vsooewxr-jj8uyg4cgr.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\qcyy8l2eek-y7v9cxd14o.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\6ohlf7e7lz-notf2xhcfb.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\7wd4e7rxmd-h1s4sie4z3.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\0f2edm3xjw-63fj8s7r0e.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\91y397dfm6-0j3bgjxly4.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\y6p7ckr67p-47otxtyo56.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\7mpxxe7qxw-4v8eqarkd7.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\wib8e3q88v-356vix0kms.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\1f6aau55hx-83jwlth58m.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\sohes65t64-mrlpezrjn3.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\4pooxnftsg-lzl9nlhx6b.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\yskvmnpqxp-ag7o75518u.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\mkip8vjnth-x0q3zqp4vz.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\4cp6qastvi-0i3buxo5is.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\w0esmzhlrr-o1o13a6vjx.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\7knru8r430-ttgo8qnofa.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\qy9sasp8w4-2z0ns9nrw6.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\b64ar05sdd-muycvpuwrr.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\j3h9f6zh5e-87fc7y1x7t.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\7w5yusevd1-mlv21k5csn.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\0d4yve0zkx-gqhusmbiup.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\8elju5ceog-gqhusmbiup.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets.build.json
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets.development.json
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets\msbuild.form with grid.Microsoft.AspNetCore.StaticWebAssets.props
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets\msbuild.form with grid.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets\msbuild.build.form with grid.props
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.form with grid.props
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.form with grid.props
+D:\test webstrail\form with grid\obj\Debug\net9.0\staticwebassets.pack.json
+D:\test webstrail\form with grid\obj\Debug\net9.0\form wit.A4A75DC5.Up2Date
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.dll
+D:\test webstrail\form with grid\obj\Debug\net9.0\refint\form with grid.dll
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.pdb
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.genruntimeconfig.cache
+D:\test webstrail\form with grid\obj\Debug\net9.0\ref\form with grid.dll
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\x6wjb5gzcd-03f0yma9zo.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\zka6d3qexm-scp9afjvsk.gz
