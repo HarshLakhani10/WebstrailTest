@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("form with grid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b77902987c1106d9b72fce0c36573f56f5c3d29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2bb94e951995be189772dba9cbde774fd0bca981")]
 [assembly: System.Reflection.AssemblyProductAttribute("form with grid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("form with grid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
