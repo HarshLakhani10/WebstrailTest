@@ -1,4 +1,4 @@
-# Contact Management API
+# Users data collection
 
 A simple **ASP.NET Core MVC API** with **PostgreSQL (ADO.NET)** backend to manage User details (create, update, fetch).  
 Currently, all endpoints are inside the **HomeController** for simplicity.
