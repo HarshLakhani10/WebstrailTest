@@ -76,3 +76,30 @@ fetch("http://localhost:5067/api/home/all")
   .then((res) => res.json())
   .then((data) => console.log(data));
 ```
+
+## Deployment (Docker + Render)
+
+This project can be containerized with **Docker**. A sample Dockerfile is included.
+
+### 1. Build Docker image
+
+```bash
+cd "form with grid"
+docker build -t form-with-grid .
+```
+
+### 2. Run Docker container
+
+```bash
+docker run -d -p 8080:80 --name form-with-grid form-with-grid
+```
+
+API will be accessible at `http://localhost:8080`.
+
+### 3. Deploy to Render (or similar services)
+
+- Push your code to GitHub.
+- Create a new **Web Service** on [Render](https://render.com).
+- Connect your GitHub repo.
+- Select **Docker** as the environment.
+- Render will automatically build and deploy your container.
