@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tpcYIW52f0faFAeMJmYPLPDvM4S2SIUV9XMpmhisEsA=",
+  "Hash": "v8CuE1fKv9F+iixdoAuxOx+4m+LPUrar2g2ZdRA2wkk=",
   "Source": "form with grid",
   "BasePath": "_content/form with grid",
   "Mode": "Default",
@@ -1382,12 +1382,12 @@
       "OriginalItemSpec": "D:\\test webstrail\\form with grid\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-scp9afjvsk.gz",
+      "Identity": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-hqvrh90se6.gz",
       "SourceId": "form with grid",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/form with grid",
-      "RelativePath": "js/script#[.{fingerprint=scp9afjvsk}]?.js.gz",
+      "RelativePath": "js/script#[.{fingerprint=hqvrh90se6}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1396,8 +1396,8 @@
       "RelatedAsset": "D:\\test webstrail\\form with grid\\wwwroot\\js\\script.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "qm2yd4ifwm",
-      "Integrity": "0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc=",
+      "Fingerprint": "xnexkrok6m",
+      "Integrity": "fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\test webstrail\\form with grid\\wwwroot\\js\\script.js"
@@ -1522,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "scp9afjvsk",
-      "Integrity": "ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=",
+      "Fingerprint": "hqvrh90se6",
+      "Integrity": "aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\script.js"
@@ -4302,13 +4302,13 @@
       ]
     },
     {
-      "Route": "js/script.js",
-      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-scp9afjvsk.gz",
+      "Route": "js/script.hqvrh90se6.js",
+      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-hqvrh90se6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000341763500"
+          "Quality": "0.000327976386"
         }
       ],
       "ResponseHeaders": [
@@ -4318,19 +4318,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2925"
+          "Value": "3048"
         },
         {
           "Name": "ETag",
-          "Value": "\"0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc=\""
+          "Value": "\"fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -4346,18 +4346,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\""
+          "Value": "W/\"aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "hqvrh90se6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/script.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="
+          "Value": "sha256-aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k="
         }
       ]
     },
     {
-      "Route": "js/script.js",
+      "Route": "js/script.hqvrh90se6.js",
       "AssetFile": "D:\\test webstrail\\form with grid\\wwwroot\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4367,7 +4375,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9655"
+          "Value": "10276"
         },
         {
           "Name": "Content-Type",
@@ -4375,121 +4383,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\""
+          "Value": "\"aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="
-        }
-      ]
-    },
-    {
-      "Route": "js/script.js.gz",
-      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-scp9afjvsk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc="
-        }
-      ]
-    },
-    {
-      "Route": "js/script.scp9afjvsk.js",
-      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-scp9afjvsk.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000341763500"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2925"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "scp9afjvsk"
+          "Value": "hqvrh90se6"
         },
         {
           "Name": "label",
@@ -4497,13 +4405,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="
+          "Value": "sha256-aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k="
         }
       ]
     },
     {
-      "Route": "js/script.scp9afjvsk.js",
-      "AssetFile": "D:\\test webstrail\\form with grid\\wwwroot\\js\\script.js",
+      "Route": "js/script.hqvrh90se6.js.gz",
+      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-hqvrh90se6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4512,7 +4420,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "9655"
+          "Value": "3048"
         },
         {
           "Name": "Content-Type",
@@ -4520,56 +4428,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\""
+          "Value": "\"fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "scp9afjvsk"
-        },
-        {
-          "Name": "label",
-          "Value": "js/script.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="
-        }
-      ]
-    },
-    {
-      "Route": "js/script.scp9afjvsk.js.gz",
-      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-scp9afjvsk.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 17 Aug 2025 16:25:00 GMT"
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4587,7 +4450,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "scp9afjvsk"
+          "Value": "hqvrh90se6"
         },
         {
           "Name": "label",
@@ -4595,7 +4458,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-0t4MlM8hFU4ZYVHkWysCfBWd5xGvqq0yn+GbQiZ4qsc="
+          "Value": "sha256-fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-hqvrh90se6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000327976386"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3048"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js",
+      "AssetFile": "D:\\test webstrail\\form with grid\\wwwroot\\js\\script.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10276"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aU58+gIMRfk39yHh1J7LEO4SfN+bWIeWDzkDi6KF05k="
+        }
+      ]
+    },
+    {
+      "Route": "js/script.js.gz",
+      "AssetFile": "D:\\test webstrail\\form with grid\\obj\\Debug\\net9.0\\compressed\\zka6d3qexm-hqvrh90se6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 17 Aug 2025 16:51:57 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fSicNmt68BFIriJVz7F0efiDXo6DRAaqaWXpsKf0jwM="
         }
       ]
     },

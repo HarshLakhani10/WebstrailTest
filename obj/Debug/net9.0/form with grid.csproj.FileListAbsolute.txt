@@ -99,4 +99,5 @@ D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.pdb
 D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.genruntimeconfig.cache
 D:\test webstrail\form with grid\obj\Debug\net9.0\ref\form with grid.dll
 D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\x6wjb5gzcd-03f0yma9zo.gz
-D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\zka6d3qexm-scp9afjvsk.gz
+D:\test webstrail\form with grid\obj\Debug\net9.0\form with grid.sourcelink.json
+D:\test webstrail\form with grid\obj\Debug\net9.0\compressed\zka6d3qexm-hqvrh90se6.gz

@@ -1,0 +1,9 @@
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.csproj.AssemblyReference.cache
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.GeneratedMSBuildEditorConfig.editorconfig
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.AssemblyInfoInputs.cache
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.AssemblyInfo.cs
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.csproj.CoreCompileInputs.cache
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.MvcApplicationPartsAssemblyInfo.cache
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.RazorAssemblyInfo.cache
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.RazorAssemblyInfo.cs
+D:\test webstrail\form with grid\obj\Debug\net8.0\form with grid.sourcelink.json

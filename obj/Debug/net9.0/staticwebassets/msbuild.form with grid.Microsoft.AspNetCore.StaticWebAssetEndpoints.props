@@ -48,17 +48,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gqhusmbiup"},{"Name":"integrity","Value":"sha256-uGaKqY73vvfJ/SVYEebmM2fTz7SY0okGRV6HeCpGnt0="},{"Name":"label","Value":"_content/form with grid/form with grid.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1132"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022uGaKqY73vvfJ/SVYEebmM2fTz7SY0okGRV6HeCpGnt0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 17 Aug 2025 12:32:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/form with grid/js/script.hqvrh90se6.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hqvrh90se6"},{"Name":"integrity","Value":"sha256-aU58\u002BgIMRfk39yHh1J7LEO4SfN\u002BbWIeWDzkDi6KF05k="},{"Name":"label","Value":"_content/form with grid/js/script.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"10276"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022aU58\u002BgIMRfk39yHh1J7LEO4SfN\u002BbWIeWDzkDi6KF05k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 17 Aug 2025 16:51:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/form with grid/js/script.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9655"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 17 Aug 2025 16:25:00 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/form with grid/js/script.scp9afjvsk.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\script.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"scp9afjvsk"},{"Name":"integrity","Value":"sha256-ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0="},{"Name":"label","Value":"_content/form with grid/js/script.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9655"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZEGFTOOFF9f5bggUyWW1/h0jOKTVlfCzWpCm9JkAvU0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 17 Aug 2025 16:25:00 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aU58\u002BgIMRfk39yHh1J7LEO4SfN\u002BbWIeWDzkDi6KF05k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"10276"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022aU58\u002BgIMRfk39yHh1J7LEO4SfN\u002BbWIeWDzkDi6KF05k=\u0022"},{"Name":"Last-Modified","Value":"Sun, 17 Aug 2025 16:51:57 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/form with grid/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
